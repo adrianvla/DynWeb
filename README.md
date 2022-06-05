@@ -10,5 +10,5 @@ When You click on a link or the website's url is like: https://www.yourwebsite.c
 be filled with a/something.html 's contents
 
   
-  ### By using this, you agree to [CC By](https://creativecommons.org/licenses/by/4.0/).This work is licensed under this license.
+  ### By using this, you agree to [CC By](https://creativecommons.org/licenses/by/4.0/) .This work is licensed under this license.
  
